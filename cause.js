@@ -84,7 +84,7 @@ function displayNewReason() {
                             opacity: 0,
                             duration: 1,
                             onComplete: () => {
-                                window.location.href = 'index.html'; // Replace with the actual URL of the next page
+                                window.location.href = 'index1.html'; // Replace with the actual URL of the next page
                             }
                         });
                     });
